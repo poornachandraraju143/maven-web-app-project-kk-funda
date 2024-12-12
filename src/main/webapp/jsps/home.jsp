@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to KK FUNDA DEVOPS CLASSES Raju secured devops 10 lpa job </h1>
+<h1 align="center">Welcome to KK FUNDA DEVOPS CLASSES Raju secured devops 15 lpa job </h1>
 <h1 align="center"> KK FUNDA</h1>
 <hr>
 <br>
